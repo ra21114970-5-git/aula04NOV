@@ -8,6 +8,7 @@ Olá! Sou **Luan Omodei Marinheiro**, tenho 22 anos e sou apaixonado por ciênci
   - Ciências
   - Tecnologia
   - Astronomia
+    
 
 ### Um pouco mais...
 
