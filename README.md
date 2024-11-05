@@ -9,7 +9,6 @@ Olá! Sou **Luan Omodei Marinheiro**, tenho 22 anos e sou apaixonado por ciênci
   - Tecnologia
   - Astronomia
     
-
 ### Um pouco mais...
 
 Desde jovem, sempre me encantei com as estrelas e o mistério do cosmos. A tecnologia me fascina tanto quanto as infinitas possibilidades que o conhecimento científico oferece. Acredito que, com curiosidade e dedicação, podemos descobrir e criar um futuro cheio de possibilidades.
